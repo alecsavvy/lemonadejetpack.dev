@@ -1,6 +1,6 @@
 {
 	"main": "dist/_worker.js/index.js",
-	"name": "lemonadejetpack-dev",
+	"name": "lemonadejetpack",
   "compatibility_date": "2025-10-27",
   "compatibility_flags": [
     "nodejs_compat",
